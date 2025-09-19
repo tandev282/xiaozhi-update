@@ -1,6 +1,6 @@
 {
-  "name": "Xiaozhi Firmware - ESP32-S3 - 1.9.1",
-  "version": "1.9.1",
+  "name": "Xiaozhi Firmware - ESP32-S3 - 2.0.1",
+  "version": "2.0.1",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
@@ -8,7 +8,7 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "xiaozhi-mini-1.9.1.bin",
+          "path": "xiaozhi-zero-2.0.1.bin",
           "offset": 0
         }
       ]
