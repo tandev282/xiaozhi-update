@@ -1,6 +1,6 @@
 {
-  "name": "Xiaozhi Firmware - ESP32-S3 - 2.0.3",
-  "version": "2.0.3",
+  "name": "Xiaozhi Music - ESP32-S3 - 1.9.1",
+  "version": "1.9.1",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
@@ -8,7 +8,7 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-           "path": "https://cdn.jsdelivr.net/gh/tandev282/xiaozhi-update@2.0.3/xiaozhi-mini-2.0.3.bin",
+          "path": "https://cdn.jsdelivr.net/gh/tandev282/xiaozhi-update@1.9.1/xiaozhi-zero-1.9.1.bin",
           "offset": 0
         }
       ]
