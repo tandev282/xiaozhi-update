@@ -1,6 +1,6 @@
 {
-  "name": "Xiaozhi 2.0.4 - ESP32-S3 ZERO",
-  "version": "2.0.4",
+  "name": "Xiaozhi 2.0.5 - ESP32-S3 ZERO",
+  "version": "2.0.5",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
@@ -8,7 +8,7 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "https://cdn.jsdelivr.net/gh/tandev282/xiaozhi-update@2.0.4/xiaozhi-zero-2.0.4.bin",
+          "path": "https://cdn.jsdelivr.net/gh/tandev282/xiaozhi-update@2.0.5/xiaozhi-zero-2.0.5.bin",
           "offset": 0
         }
       ]
