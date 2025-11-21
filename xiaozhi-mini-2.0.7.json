@@ -1,6 +1,6 @@
 {
-  "name": "Xiaozhi 2.0.7 Wechat - ESP32-S3 ZERO",
-  "version": "2.0.7 Wechat",
+  "name": "Xiaozhi 2.0.7 - ESP32-S3 SUPER MINI",
+  "version": "2.0.7",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
@@ -8,7 +8,7 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "https://cdn.jsdelivr.net/gh/tandev282/xiaozhi-update@2.0.7_wechat/xiaozhi-zero-2.0.7_wechat.bin",
+          "path": "https://cdn.jsdelivr.net/gh/tandev282/xiaozhi-update@2.0.7/xiaozhi-mini-2.0.7.bin",
           "offset": 0
         }
       ]
