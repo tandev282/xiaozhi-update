@@ -1,6 +1,6 @@
 {
-  "name": "Xiaozhi 2.0.8 - ESP32-S3 ZERO - WeChat Version",
-  "version": "2.0.8",
+  "name": "Xiaozhi 2.0.9 - ESP32-S3 ZERO",
+  "version": "2.0.9",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
@@ -8,7 +8,7 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "https://cdn.jsdelivr.net/gh/tandev282/xiaozhi-update@2.0.8_wechat/xiaozhi-zero-2.0.8_wechat.bin",
+          "path": "https://cdn.jsdelivr.net/gh/tandev282/xiaozhi-update@2.0.9/xiaozhi-zero-2.0.9.bin",
           "offset": 0
         }
       ]
