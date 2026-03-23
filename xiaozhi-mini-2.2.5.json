@@ -8,7 +8,7 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "https://cdn.jsdelivr.net/gh/tandev282/xiaozhi-update@2.2.4/xiaozhi-mini-2.2.4.bin",
+          "path": "https://cdn.jsdelivr.net/gh/tandev282/xiaozhi-update@2.2.5/xiaozhi-mini-2.2.5.bin",
           "offset": 0
         }
       ]
